@@ -1,0 +1,398 @@
+{
+  "Header": {
+    "title": "ARVOS",
+    "paragraph": "Advanced Robotics and Visualization for Ophthalmic Surgery",
+    "dateandlocation": "October 23, Kyoto, Japan"
+  },
+  "About": {
+    "paragraph": "This workshop brings together active research groups and key industries, sharing the latest technological advancements related to ophthalmic procedures. The areas to be covered within this workshop are:",
+    "Why": [
+      "Robotic Microsurgery",
+      "Intra-Operative Visualization",
+      "Image-Guided Surgery",
+      "Task Automation in Eye Surgery"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Sponsors": [
+    {
+      "image": "image/sponsors/1.jpg",
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Sponsors":[
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/nsk.jpg",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/ieee.webp",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/ieeer.webp",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/ico.webp",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/ntf.webp",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/rsj.webp",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/sice.webp",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    }
+  ],
+  "Speakers": [
+    {
+      "img": "img/speakers/taylor.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Johns Hopkins University",
+      "name": "Russell H. Taylor",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/iordachita.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Johns Hopkins University",
+      "name": "Iulian Iordachita",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/riviere.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Carnegie Mellon University",
+      "name": "Cameron N. Riviere",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/abbott.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "University of Utah",
+      "name": "Jake J. Abbott",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/Huang.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Sun Yat-sen University",
+      "name": "Kai Huang",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/bergles.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "King's College London",
+      "name": "Christos Bergeles",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/mitsuishi.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "The University of Tokyo",
+      "name": "Mamoru Mitsuishi",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/navab.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Technical University of Munich",
+      "name": "Nassir Navab",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/nasseri.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Technical University of Munich",
+      "name": "M. Ali Nasseri",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/kang.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Johns Hopkins University",
+      "name": "Jin U. Kang",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/simaan.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Vanderbilt University",
+      "name": "Nabil Simaan",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/izatt.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Duke University",
+      "name": "Joseph A. Izatt",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/poorten.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "KU Leuven",
+      "name": "Emmanuel Vander Poorten",
+      "link": ""
+    },
+    {
+      "img": "img/speakers/sznitman.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "University of Bern",
+      "name": "Raphael Sznitman",
+      "link": ""
+    }
+  ],
+  "Clinicans": [
+    {
+      "img": "img/clinicans/gehlbach.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Wilmer Eye Institute, Johns Hopkins University, USA",
+      "name": "Dr. Peter Louis Gehlbach",
+      "link": ""
+    },
+    {
+      "img": "img/clinicans/lin.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Zhongshan Ophthalmic Center, Sun Yat-Sen University, China",
+      "name": "Dr. Haotian Lin",
+      "link": ""
+    },
+    {
+      "img": "img/clinicans/maier.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Klinikum rechts der Isar, Technical University of Munich, Germany",
+      "name": "Dr. Mathias Maier",
+      "link": ""
+    },
+    {
+      "img": "img/clinicans/faridpooya.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Rotterdam Eye Hospital, Rotterdam, Netherlands",
+      "name": "Dr. Koorosh Faridpooya",
+      "link": ""
+    },
+    {
+      "img": "img/clinicans/kapetanovic.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Ophthalmology at the University of Oxford, UK",
+      "name": "Dr. Jasmina Kapetanovic",
+      "link": ""
+    },
+    {
+      "img": "img/clinicans/hubschman.jpeg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "affiliation": "Doris Stein Eye Research Center, UCLA, USA",
+      "name": "Dr. Jean-Pierre Hubschman",
+      "link": ""
+    }
+  ],
+  "speakers": [
+    {
+      "img": "img/speakers/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/speakers/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/speakers/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/speakers/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/speakers/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/speakers/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/nasseri.jpeg",
+      "name": "M. Ali Nasseri",
+      "job": "Klinikum rechts der Isar, TUM",
+      "country": "Munich, Germany"
+    },
+    {
+      "img": "img/team/mitsuishi.jpeg",
+      "name": "Mamoru Mitsuishi",
+      "job": "The University of Tokyo",
+      "country": "Tokyo, Japan"
+    },
+    {
+      "img": "img/team/bergles.jpeg",
+      "name": "Christos Bergeles",
+      "job": "King’s College London",
+      "country": "London, United Kingdom"
+    },
+    {
+      "img": "img/team/poorten.jpeg",
+      "name": "Emmanuel V. Poorten",
+      "job": "KU Leuven",
+      "country": "Leuven, Belgium"
+    },
+    {
+      "img": "img/team/iordachita.jpeg",
+      "name": "Iulian Iordachita",
+      "job": "Johns Hopkins University",
+      "country": "Baltimore, USA"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
