@@ -149,16 +149,6 @@ hr {
   margin-bottom: 5px;
   padding-bottom: 5px;
 }
-.section-title h2::after {
-  position: absolute;
-  content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
-  height: 4px;
-  width: 60px;
-  bottom: 0;
-  margin-left: -30px;
-  left: 50%;
-}
 .section-title p {
   font-size: 18px;
 }
@@ -263,6 +253,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
+  background-color: black;
 }
 #about h3 {
   font-size: 22px;
@@ -272,6 +263,7 @@ header .intro-text {
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 15px;
+  color: white
 }
 #about h2::after {
   position: absolute;
@@ -287,9 +279,10 @@ header .intro-text {
   margin-left: 6px;
   list-style: none;
   padding: 0;
+  color: white;
 }
 #about .about-text li:before {
-  content: "\f00c";
+  content: "\f00b";
   font-family: "FontAwesome";
   color: #5ca9fb;
   font-size: 11px;
@@ -306,6 +299,7 @@ header .intro-text {
 #about p {
   line-height: 24px;
   margin: 30px 0;
+  color: white;
 }
 /* sponsors Section */
 #sponsors {
@@ -326,16 +320,6 @@ header .intro-text {
   margin: 10px 10px 20px;
 }
 
-#sponsors .section-title h2::after {
-  position: absolute;
-  content: "";
-  background: rgba(255, 255, 255, 0.3);
-  height: 4px;
-  width: 60px;
-  bottom: 0;
-  margin-left: -30px;
-  left: 50%;
-}
 #sponsors i.fa {
   font-size: 42px;
   width: 120px;
@@ -434,9 +418,15 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 100px 0;
+  background-color: rgb(0, 0, 0);
 }
 #team h4 {
+  margin: 20px 0;
+  color: white;
+}
+#team h2 {
   margin: 5px 0;
+  color: white;
 }
 #team .team-img {
   width: 200px;
@@ -468,6 +458,7 @@ header .intro-text {
 
 #clinicans .clinicans-img {
   width: 200px;
+  border-radius: 50%;
 }
 
 #clinicans .thumbnail {
@@ -496,15 +487,7 @@ header .intro-text {
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
-#contact .section-title h2::after {
-  position: absolute;
-  content: "";
-  background: rgba(255, 255, 255, 0.3);
-  height: 4px;
-  width: 60px;
-  bottom: 0;
-  left: 30px;
-}
+
 #contact h3 {
   color: #fff;
   margin-top: 80px;
