@@ -6,6 +6,7 @@ export const Header = (props) => {
           <div className='container'>
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
+                <h5>IROS 2022 Workshop</h5>
                 <h1>
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
@@ -13,11 +14,11 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <p>{props.data ? props.data.dateandlocation : 'Loading'}</p>
                 <a
-                  href='#features'
+                  href='#About'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Learn More
-                </a>{' '}
+                </a>{''}
               </div>
             </div>
           </div>

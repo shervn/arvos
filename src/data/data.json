@@ -55,7 +55,7 @@
       "link": "https://tum.de"
     },
     {
-      "img": "img/sponsors/tum.png",
+      "img": "img/sponsors/nsk.jpg",
       "link": "https://tum.de"
     },
     {
@@ -271,34 +271,31 @@
       "country": "Baltimore, USA"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
-  "Features": [
+  "Students":[
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "name": "Satoshi Inagaki",
+      "url": "https://google.com",
+      "image": "img/students/satoshi.jpeg"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "name": "Shervin Dehghani",
+      "url": "https://google.com",
+      "image": "img/students/shervin.jpeg"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "name": "Kristina Mach",
+      "url": "https://google.com",
+      "image": "img/students/kristina.jpeg"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "name": "Michael Sommersperger",
+      "url": "https://google.com",
+      "image": "img/students/michi.jpeg"
+    },
+    {
+      "name": "Alireza Alikhani",
+      "url": "https://google.com",
+      "image": "img/students/alireza.jpeg"
     }
   ]
 }

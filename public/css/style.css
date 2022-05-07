@@ -604,6 +604,26 @@ label {
 }
 
 
+#students {
+  padding: 100px 0;
+  background-color: rgb(255, 255, 255);
+}
+#students h4 {
+  margin: 10px 0;
+  margin-bottom: 0px;
+  color: rgb(0, 0, 0);
+}
+
+#students h2 {
+  margin: 5px 0;
+  color: rgb(0, 0, 0);
+}
+
+#students .students-img {
+  width: 80px;
+  border-radius: 50%;
+}
+
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
