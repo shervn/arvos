@@ -274,17 +274,23 @@ header .intro-text {
   bottom: 0;
   left: 0;
 }
+
+#news {
+  padding-bottom: 150px;
+  padding-top: 10px;
+}
+
 #about .about-text li {
   margin-bottom: 6px;
   margin-left: 6px;
-  list-style: none;
+  list-style: disc;
   padding: 0;
   color: white;
 }
 #about .about-text li:before {
-  content: "\f00b";
-  font-family: "FontAwesome";
-  color: #5ca9fb;
+  /* content: "\11044"; */
+  /* font-family: "FontAwesome"; */
+  /* color: #5ca9fb; */
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
@@ -301,6 +307,18 @@ header .intro-text {
   margin: 30px 0;
   color: white;
 }
+
+
+#news li{
+  list-style-type: circle;
+}
+
+#news h4 {
+  display:inline;
+  margin-right: 10px;
+
+}
+
 /* sponsors Section */
 #sponsors {
   padding: 100px 0;

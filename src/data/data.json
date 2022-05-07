@@ -11,8 +11,19 @@
       "Intra-Operative Visualization",
       "Image-Guided Surgery",
       "Task Automation in Eye Surgery"
+    ],
+    "News": [
+      {
+        "date": "07.05.2022",
+        "body": "Details for poster submissions will be announced."
+      },
+      {
+        "date": "22.04.2022",
+        "body": "ARVOS is accepted as an IROS 2022 Workshop"
+      }
     ]
   },
+  
   "Sponsors":[
     {
       "img": "img/sponsors/ieee.webp",

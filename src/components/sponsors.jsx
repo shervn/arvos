@@ -6,7 +6,7 @@ export const Sponsors = (props) => {
         <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-1 col-sm-3'>
+                <div key={`${d.name}-${i}`} className='col-md-1 col-sm-4'>
                     <img src={d.img} alt='...' className='sponsor-img' />
                 </div>
               ))

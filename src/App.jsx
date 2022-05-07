@@ -6,6 +6,7 @@ import { Sponsors } from "./components/sponsors";
 import { Speakers } from "./components/speakers";
 import { Team } from "./components/team";
 import { Students } from "./components/students";
+import { News } from "./components/news";
 import { Clinicans } from "./components/clinicans";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
@@ -28,6 +29,7 @@ const App = () => {
       <Navigation />
       <Header data={landingPageData.Header} />
       <About data={landingPageData.About} />
+      {/* <News data={landingPageData.News} /> */}
       <Team data={landingPageData.Team} />
       <Speakers data={landingPageData.Speakers} />
       <Clinicans data={landingPageData.Clinicans} />
