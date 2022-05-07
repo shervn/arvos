@@ -2,7 +2,7 @@
   "Header": {
     "title": "ARVOS",
     "paragraph": "Advanced Robotics and Visualization for Ophthalmic Surgery",
-    "dateandlocation": "October 23, Kyoto, Japan"
+    "dateandlocation": "October 23. Kyoto. Japan."
   },
   "About": {
     "paragraph": "This workshop brings together active research groups and key industries, sharing the latest technological advancements related to ophthalmic procedures. The areas to be covered within this workshop are:",
@@ -93,7 +93,7 @@
       "link": ""
     },
     {
-      "img": "img/speakers/Huang.jpeg",
+      "img": "img/speakers/huang.jpeg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "affiliation": "Sun Yat-sen University",
       "name": "Kai Huang",
