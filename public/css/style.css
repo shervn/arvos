@@ -439,7 +439,6 @@ header .intro-text {
   background-color: rgb(0, 0, 0);
 }
 #team h4 {
-  margin: 20px 0;
   color: white;
 }
 #team h2 {
@@ -477,6 +476,14 @@ header .intro-text {
 #clinicans .clinicans-img {
   width: 200px;
   border-radius: 50%;
+}
+
+.invitename{
+  margin-bottom: 10px;
+}
+
+.inviteuni{
+  margin-bottom: 15px;
 }
 
 #clinicans .thumbnail {

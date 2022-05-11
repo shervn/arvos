@@ -8,12 +8,12 @@ export const Clinicans = (props) => {
         <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-4 col-sm-6 clinicans'>
+                <div key={`${d.name}-${i}`} className='col-md-4 col-sm-4 clinicans'>
                   {/* <div className='thumbnail'> */}
                     <img src={d.img} alt='...' className='clinicans-img' />
                     <div className='caption'>
-                      <h4>{d.name}</h4>
-                      <p>{d.affiliation}</p>
+                      <h4 className="invitename">{d.name}</h4>
+                      <p className="inviteuni">{d.affiliation}</p>
                     </div>
                   {/* </div> */}
                 </div>

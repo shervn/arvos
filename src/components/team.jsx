@@ -8,12 +8,12 @@ export const Team = (props) => {
         <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className={i==0 ? 'col-md-2 col-sm-6 team col-md-offset-1' : 'col-md-2 col-sm-6 team'}>
+                <div key={`${d.name}-${i}`} className={i==0 ? 'col-md-3 col-sm-6 team' : 'col-md-3 col-sm-6 team'}>
                   {/* <div className='thumbnail'> */}
                     <img src={d.img} alt='...' className='team-img' />
                     <div className='caption'>
-                      <h4>{d.name}</h4>
-                      <p>{d.job} <br/> {d.country}</p>
+                      <h4 className="invitename">{d.name}</h4>
+                      <p className="inviteuni">{d.job} <br/> <b>{d.country}</b></p>
                     </div>
                   {/* </div> */}
                 </div>

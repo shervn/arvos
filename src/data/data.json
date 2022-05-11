@@ -192,7 +192,7 @@
     {
       "img": "img/clinicans/maier.jpeg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "affiliation": "Klinikum rechts der Isar, Technical University of Munich, Germany",
+      "affiliation": "Klinikum rechts der Isar, TUM, Germany",
       "name": "Dr. Mathias Maier",
       "link": ""
     },
@@ -255,31 +255,37 @@
       "img": "img/team/nasseri.jpeg",
       "name": "M. Ali Nasseri",
       "job": "Klinikum rechts der Isar, TUM",
-      "country": "Munich, Germany"
+      "country": "Germany"
     },
     {
       "img": "img/team/mitsuishi.jpeg",
       "name": "Mamoru Mitsuishi",
       "job": "The University of Tokyo",
-      "country": "Tokyo, Japan"
+      "country": "Japan"
     },
     {
       "img": "img/team/bergles.jpeg",
       "name": "Christos Bergeles",
       "job": "King’s College London",
-      "country": "London, United Kingdom"
+      "country": "United Kingdom"
     },
     {
       "img": "img/team/poorten.jpeg",
       "name": "Emmanuel V. Poorten",
       "job": "KU Leuven",
-      "country": "Leuven, Belgium"
+      "country": "Belgium"
     },
     {
       "img": "img/team/iordachita.jpeg",
       "name": "Iulian Iordachita",
       "job": "Johns Hopkins University",
-      "country": "Baltimore, USA"
+      "country": "USA"
+    },
+    {
+      "img": "img/team/sznitman.jpeg",
+      "name": "Raphael Sznitman",
+      "job": "University of Bern",
+      "country": "Germany"
     }
   ],
   "Students":[
