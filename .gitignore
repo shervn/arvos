@@ -1,2 +1,5 @@
 build
 node_modules
+node_modules/.cache/.eslintcache
+public/img/sponsors/.DS_Store
+node_modules/.cache/.eslintcache

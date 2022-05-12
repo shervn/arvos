@@ -17,8 +17,8 @@ export const Speakers = (props) => {
                     <div className='speakers-content'>
                       <p>{d.text}</p>
                       <div className='speakers-meta'>{d.name}</div>
+                      <a href={d.link} class="link-dark">[Page]</a>
                       <h6>{d.affiliation}</h6>
-                      <a href="#" class="link-dark">{d.url}</a>
                     </div>
                   </div>
                 </div>

@@ -402,10 +402,14 @@ header .intro-text {
   color: #e6e6e6;
   font-size: 32px;
   margin-bottom: 20px;
+
 }
 .speakers {
   position: relative;
   padding: 20px;
+  padding-bottom: 0;
+  min-height: 200;
+
 }
 .speakers-image {
   float: left;

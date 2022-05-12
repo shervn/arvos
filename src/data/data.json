@@ -26,6 +26,34 @@
   
   "Sponsors":[
     {
+      "img": "img/sponsors/tum.png",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/maps.jpeg",
+      "link": "https://maps.de"
+    },
+    {
+      "img": "img/sponsors/camp.jpeg",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/mri.jpeg",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/jhu.jpeg",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/nsk.jpg",
+      "link": "https://tum.de"
+    },
+    {
+      "img": "img/sponsors/mirmi.jpeg",
+      "link": "https://tum.de"
+    },
+    {
       "img": "img/sponsors/ieee.webp",
       "link": "https://tum.de"
     },
@@ -48,205 +76,181 @@
     {
       "img": "img/sponsors/sice.webp",
       "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/mri.jpeg",
-      "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/camp.jpeg",
-      "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/jhu.jpeg",
-      "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/tum.png",
-      "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/nsk.jpg",
-      "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/tum.png",
-      "link": "https://tum.de"
     }
   ],
   "Speakers": [
     {
       "img": "img/speakers/taylor.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Johns Hopkins University",
       "name": "Russell H. Taylor",
-      "link": ""
+      "link": "https://www.cs.jhu.edu/~rht/"
     },
     {
       "img": "img/speakers/iordachita.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Johns Hopkins University",
       "name": "Iulian Iordachita",
-      "link": ""
+      "link": "https://amiro.lcsr.jhu.edu/iulianiordachita/"
     },
     {
       "img": "img/speakers/riviere.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Carnegie Mellon University",
       "name": "Cameron N. Riviere",
-      "link": ""
+      "link": "https://www.cmu.edu/bme/People/Faculty/profile/criviere.html"
     },
     {
       "img": "img/speakers/abbott.jpeg",
       "text": "Head-mounting Eye-surgery Robots for Passive Compensation of Patient Motion",
       "affiliation": "University of Utah",
       "name": "Jake J. Abbott",
-      "link": ""
+      "link": "https://www.mech.utah.edu/directory/faculty/jake-abbott/"
     },
     {
       "img": "img/speakers/huang.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Sun Yat-sen University",
       "name": "Kai Huang",
-      "link": ""
+      "link": "https://scholar.google.com/citations?user=70_wl8kAAAAJ&hl=en"
     },
     {
       "img": "img/speakers/bergles.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "King's College London",
       "name": "Christos Bergeles",
-      "link": ""
+      "link": "https://www.kcl.ac.uk/people/christos-bergeles-1"
     },
     {
       "img": "img/speakers/mitsuishi.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "The University of Tokyo",
       "name": "Mamoru Mitsuishi",
-      "link": ""
+      "link": "https://www.u-tokyo.ac.jp/focus/en/people/people003397.html"
     },
     {
       "img": "img/speakers/navab.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Technical University of Munich",
       "name": "Nassir Navab",
-      "link": ""
+      "link": "https://www.in.tum.de/campar/members/cv-nassir-navab/nassir-navab/"
     },
     {
       "img": "img/speakers/nasseri.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Technical University of Munich",
       "name": "M. Ali Nasseri",
-      "link": ""
+      "link": "https://www.translatum.tum.de/en/translatum/research-groups/biological-imaging/cognitive-cell-micromanipulation-laboratory-ccml/"
     },
     {
       "img": "img/speakers/kang.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Johns Hopkins University",
       "name": "Jin U. Kang",
-      "link": ""
+      "link": "https://engineering.jhu.edu/faculty/jin-u-kang/"
     },
     {
       "img": "img/speakers/simaan.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Vanderbilt University",
       "name": "Nabil Simaan",
-      "link": ""
+      "link": "https://engineering.vanderbilt.edu/bio/nabil-simaan"
     },
     {
       "img": "img/speakers/izatt.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Duke University",
       "name": "Joseph A. Izatt",
-      "link": ""
+      "link": "https://bme.duke.edu/faculty/joseph-izatt"
     },
     {
       "img": "img/speakers/poorten.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "KU Leuven",
       "name": "Emmanuel Vander Poorten",
-      "link": ""
+      "link": "https://www.kuleuven.be/wieiswie/en/person/00035122"
     },
     {
       "img": "img/speakers/sznitman.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "University of Bern",
       "name": "Raphael Sznitman",
-      "link": ""
+      "link": "https://www.artorg.unibe.ch/research/aimi/group_members/persons/prof_dr_sznitman_raphael/index_eng.html"
     }
   ],
   "Clinicans": [
     {
       "img": "img/clinicans/gehlbach.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Wilmer Eye Institute, Johns Hopkins University, USA",
       "name": "Dr. Peter Louis Gehlbach",
-      "link": ""
+      "link": "https://www.hopkinsmedicine.org/profiles/details/peter-gehlbach"
     },
     {
       "img": "img/clinicans/lin.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Zhongshan Ophthalmic Center, Sun Yat-Sen University, China",
       "name": "Dr. Haotian Lin",
-      "link": ""
+      "link": "http://english.gzzoc.com/nev/news/202005/t20200520_167915.html"
     },
     {
       "img": "img/clinicans/maier.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Klinikum rechts der Isar, TUM, Germany",
       "name": "Dr. Mathias Maier",
-      "link": ""
+      "link": "https://augenklinik.mri.tum.de/de/univ-prof-dr-med-mathias-maier"
     },
     {
       "img": "img/clinicans/faridpooya.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Rotterdam Eye Hospital, Rotterdam, Netherlands",
       "name": "Dr. Koorosh Faridpooya",
-      "link": ""
+      "link": "https://www.oogziekenhuis.nl/onze-specialisten/drs-k-koorosh-faridpooya"
     },
     {
       "img": "img/clinicans/kapetanovic.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Ophthalmology at the University of Oxford, UK",
       "name": "Dr. Jasmina Kapetanovic",
-      "link": ""
+      "link": "https://www.ndcn.ox.ac.uk/team/jasmina-kapetanovic"
     },
     {
       "img": "img/clinicans/hubschman.jpeg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "affiliation": "Doris Stein Eye Research Center, UCLA, USA",
       "name": "Dr. Jean-Pierre Hubschman",
-      "link": ""
+      "link": "https://www.uclahealth.org/providers/jean-pierre-hubschman"
     }
   ],
   "speakers": [
     {
       "img": "img/speakers/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "name": "John Doe"
     },
     {
       "img": "img/speakers/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/speakers/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "name": "John Doe"
     },
     {
       "img": "img/speakers/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/speakers/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "name": "John Doe"
     },
     {
       "img": "img/speakers/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Talk description to be announced later.",
       "name": "Johnathan Doe"
     }
   ],

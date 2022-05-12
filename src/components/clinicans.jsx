@@ -13,6 +13,8 @@ export const Clinicans = (props) => {
                     <img src={d.img} alt='...' className='clinicans-img' />
                     <div className='caption'>
                       <h4 className="invitename">{d.name}</h4>
+                      <p className="inviteuni"> <a href={d.link} class="link-dark">[Page]</a></p>
+
                       <p className="inviteuni">{d.affiliation}</p>
                     </div>
                   {/* </div> */}
