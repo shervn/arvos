@@ -7,7 +7,7 @@ export const Sponsors = (props) => {
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-2 col-sm-4'>
-                    <a href={d.link}><img src={d.img} alt='...' className='sponsor-img' /></a>
+                    <a href={d.link}><img src={d.img} alt='...' className='sponsor-img' id={d.id} /></a>
                 </div>
               ))
             : 'loading'}

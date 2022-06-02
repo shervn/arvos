@@ -31,11 +31,12 @@
     },
     {
       "img": "img/sponsors/maps.jpeg",
-      "link": "https://maps.de"
+      "link": "http://vmknoll22.informatik.tu-muenchen.de/"
     },
     {
       "img": "img/sponsors/camp.jpeg",
-      "link": "https://tum.de"
+      "id": "camplogo",
+      "link": "https://www.cs.cit.tum.de/camp/start/"
     },
     {
       "img": "img/sponsors/mri.jpeg",
@@ -43,27 +44,27 @@
     },
     {
       "img": "img/sponsors/jhu.jpeg",
-      "link": "https://tum.de"
+      "link": "https://engineering.jhu.edu/"
     },
     {
       "img": "img/sponsors/nsk.jpg",
-      "link": "https://tum.de"
+      "link": "https://www.nsk.com/"
     },
     {
       "img": "img/sponsors/mirmi.jpeg",
-      "link": "https://tum.de"
+      "link": "https://www.mirmi.tum.de/mirmi/home/"
     },
     {
       "img": "img/sponsors/ieee.webp",
-      "link": "https://tum.de"
+      "link": "https://www.ieee.org/"
     },
     {
       "img": "img/sponsors/ieeer.webp",
-      "link": "https://tum.de"
+      "link": "https://www.ieee.org/"
     },
     {
       "img": "img/sponsors/ico.webp",
-      "link": "https://tum.de"
+      "link": "https://www.ieee.org/"
     },
     {
       "img": "img/sponsors/ntf.webp",
@@ -71,11 +72,11 @@
     },
     {
       "img": "img/sponsors/rsj.webp",
-      "link": "https://tum.de"
+      "link": "https://www.ieee.org/"
     },
     {
       "img": "img/sponsors/sice.webp",
-      "link": "https://tum.de"
+      "link": "https://www.ieee.org/"
     }
   ],
   "Speakers": [

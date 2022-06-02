@@ -329,10 +329,14 @@ header .intro-text {
 }
 
 #sponsors .sponsor-img {
-  height: 30px;
-  margin-top: 30px;
-  padding: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  max-width: 80px;
+  max-height: 80px;
+
 }
+
 
 #sponsors .service-desc {
   margin: 10px 10px 20px;
