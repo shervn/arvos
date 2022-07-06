@@ -402,6 +402,11 @@ header .intro-text {
   padding: 100px 0;
   background: #f6f6f6;
 }
+
+#speakers h2{
+  padding-bottom: 50px;
+}
+
 #speakers i {
   color: #e6e6e6;
   font-size: 32px;
@@ -409,10 +414,9 @@ header .intro-text {
 
 }
 .speakers {
-  position: relative;
-  padding: 20px;
   padding-bottom: 0;
-  min-height: 200;
+  max-height: 500px;
+  min-height: 200px;
 
 }
 .speakers-image {
@@ -442,6 +446,12 @@ header .intro-text {
   color: #666;
 }
 /* Team Section */
+.team-header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #team {
   padding: 100px 0;
   background-color: rgb(0, 0, 0);
@@ -465,6 +475,13 @@ header .intro-text {
   padding: 8px 0 0;
   color: #888;
 }
+
+.clinicans{
+ display: block;
+ max-height: 300px;
+ margin-top: 50px;
+}
+
 
 #clinicans {
   padding: 100px 0;

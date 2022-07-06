@@ -61,22 +61,6 @@
     {
       "img": "img/sponsors/ieeer.webp",
       "link": "https://www.ieee.org/"
-    },
-    {
-      "img": "img/sponsors/ico.webp",
-      "link": "https://www.ieee.org/"
-    },
-    {
-      "img": "img/sponsors/ntf.webp",
-      "link": "https://tum.de"
-    },
-    {
-      "img": "img/sponsors/rsj.webp",
-      "link": "https://www.ieee.org/"
-    },
-    {
-      "img": "img/sponsors/sice.webp",
-      "link": "https://www.ieee.org/"
     }
   ],
   "Speakers": [
@@ -183,16 +167,16 @@
     {
       "img": "img/clinicans/gehlbach.jpeg",
       "text": "Talk description to be announced later.",
-      "affiliation": "Wilmer Eye Institute, Johns Hopkins University, USA",
+      "affiliation": "Wilmer Eye Institute, JHU, USA",
       "name": "Dr. Peter Louis Gehlbach",
       "link": "https://www.hopkinsmedicine.org/profiles/details/peter-gehlbach"
     },
     {
-      "img": "img/clinicans/lin.jpeg",
+      "img": "img/clinicans/kapetanovic.jpeg",
       "text": "Talk description to be announced later.",
-      "affiliation": "Zhongshan Ophthalmic Center, Sun Yat-Sen University, China",
-      "name": "Dr. Haotian Lin",
-      "link": "http://english.gzzoc.com/nev/news/202005/t20200520_167915.html"
+      "affiliation": "Ophthalmology at the University of Oxford, UK",
+      "name": "Dr. Jasmina Kapetanovic",
+      "link": "https://www.ndcn.ox.ac.uk/team/jasmina-kapetanovic"
     },
     {
       "img": "img/clinicans/maier.jpeg",
@@ -209,11 +193,11 @@
       "link": "https://www.oogziekenhuis.nl/onze-specialisten/drs-k-koorosh-faridpooya"
     },
     {
-      "img": "img/clinicans/kapetanovic.jpeg",
+      "img": "img/clinicans/lin.jpeg",
       "text": "Talk description to be announced later.",
-      "affiliation": "Ophthalmology at the University of Oxford, UK",
-      "name": "Dr. Jasmina Kapetanovic",
-      "link": "https://www.ndcn.ox.ac.uk/team/jasmina-kapetanovic"
+      "affiliation": "Zhongshan Ophthalmic Center, Sun Yat-Sen University, China",
+      "name": "Dr. Haotian Lin",
+      "link": "http://english.gzzoc.com/nev/news/202005/t20200520_167915.html"
     },
     {
       "img": "img/clinicans/hubschman.jpeg",
