@@ -452,6 +452,15 @@ header .intro-text {
   margin-right: auto;
 }
 
+.orga{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.orgaactive {
+  order: -1;
+  flex: 1 0 50%;
+}
 #team {
   padding: 100px 0;
   background-color: rgb(0, 0, 0);
@@ -482,6 +491,9 @@ header .intro-text {
  margin-top: 50px;
 }
 
+#schedule {
+  padding-top: 100px;
+}
 
 #clinicans {
   padding: 100px 0;
@@ -656,17 +668,17 @@ label {
 
 #students {
   padding: 100px 0;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
 }
 #students h4 {
   margin: 10px 0;
   margin-bottom: 0px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 #students h2 {
-  margin: 5px 0;
-  color: rgb(0, 0, 0);
+  margin-bottom: 50px;
+  color: rgb(255, 255, 255);
 }
 
 #students .students-img {

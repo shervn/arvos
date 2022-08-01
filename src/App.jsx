@@ -7,6 +7,7 @@ import { Speakers } from "./components/speakers";
 import { Team } from "./components/team";
 import { Students } from "./components/students";
 import { News } from "./components/news";
+import { Schedule } from "./components/schedule";
 import { Clinicans } from "./components/clinicans";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
@@ -29,15 +30,13 @@ const App = () => {
       <Navigation />
       <Header data={landingPageData.Header} />
       <About data={landingPageData.About} />
-      {/* <News data={landingPageData.News} /> */}
       <Team data={landingPageData.Team} />
       <Speakers data={landingPageData.Speakers} />
       <Clinicans data={landingPageData.Clinicans} />
+      <Schedule data={landingPageData} />
       <Students data={landingPageData.Students} />
       <Sponsors data={landingPageData.Sponsors} />
       <Contact data={landingPageData.Contact} />
-      {/* <Gallery data={landingPageData.Gallery}/> */}
-      {/* <Features data={landingPageData.Features} /> */}
     </div>
   );
 };
