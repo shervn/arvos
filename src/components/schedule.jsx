@@ -16,7 +16,7 @@ export const Schedule = (props) => {
      </tr>
    </thead>
    <tbody>
-   {props.data.Schedule2 ? props.data.Schedule2.map((d, i) => (
+   {props.data.Schedule1 ? props.data.Schedule1.map((d, i) => (
       <tr>
       <th class="col-md-2" scope="row">{d.timeslot}</th>
       <td>{d.speaker}</td>
