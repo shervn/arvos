@@ -4,6 +4,7 @@
     "paragraph": "Advanced Robotics and Visualization for Ophthalmic Surgery",
     "dateandlocation": "October 23. Kyoto. Japan."
   },
+
   "About": {
     "paragraph": "This workshop brings together active research groups and key industries, sharing the latest technological advancements related to ophthalmic procedures. The areas to be covered within this workshop are:",
     "Why": [
@@ -13,6 +14,10 @@
       "Task Automation in Eye Surgery"
     ],
     "News": [
+      {
+        "date": "17.08.2022",
+        "body": "Details for poster submissions is provided."
+      },
       {
         "date": "07.05.2022",
         "body": "Details for poster submissions will be announced."
