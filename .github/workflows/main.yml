@@ -8,13 +8,16 @@ jobs:
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     steps:
       - uses: actions/checkout@v2
-
-      - name: Set VARS
-        run: export NODE_OPTIONS=--openssl-legacy-provider
         
       - name: Install dependencies
         run: npm install
+        
+      - name: Update 1
+        run: npm run update
 
+      - name: Update 2
+        run: npm audit fix --force
+        
       - name: Build
         run: npm run build
 
