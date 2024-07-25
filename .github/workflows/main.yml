@@ -8,12 +8,18 @@ jobs:
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     steps:
       - uses: actions/checkout@v2
-
+        
       - name: Install dependencies
-        run: yarn
+        run: npm install
+        
+      - name: Update 1
+        run: npm update
 
+      - name: Update 2
+        run: npm audit fix --force
+        
       - name: Build
-        run: yarn build
+        run: npm run build
 
       - name: Deploy
         uses: reggionick/s3-deploy@v3
