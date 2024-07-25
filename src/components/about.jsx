@@ -1,9 +1,12 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+
 export const About = (props) => {
   return (
     <div id="about">
       <div className="container">
         <div className="row">
-          <div className="col-xs-12 col-md-6">
+          {/* <div className="col-xs-12 col-md-6">
           <div className="about-text" id="news">
               <h2>News</h2>
           <div className="list-style">
@@ -20,7 +23,7 @@ export const About = (props) => {
                 </div>
                 </div>
                 </div>
-          </div>
+          </div> */}
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>About Us</h2>

@@ -1,3 +1,6 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+
 export const Sponsors = (props) => {
   return (
     <div id='sponsors' className='text-center'>

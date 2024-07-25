@@ -1,3 +1,6 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -16,7 +19,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            ARVOS 2022
+            ARVOS 2024
           </a>{' '}
         </div>
 
@@ -49,11 +52,11 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#clinicans' className='page-scroll'>
-                Clinicans
+              <a href='#board' className='page-scroll'>
+                Advisory Board
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#schedule' className='page-scroll'>
                 Schedule
               </a>
@@ -67,7 +70,7 @@ export const Navigation = (props) => {
               <a href='#sponsors' className='page-scroll'>
                 Sponsors
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

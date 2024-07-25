@@ -2,19 +2,16 @@
   "Header": {
     "title": "ARVOS",
     "paragraph": "Advanced Robotics and Visualization for micrO Surgery",
-    "date": "October 14th 2024",
-    "location": "Abu Dhabi. United Arab Emirates"
+    "dateandlocation": "October 14., 2024, Abu Dhabi. United Arab Emirates"
   },
 
   "About": {
     "paragraph": "This workshop brings together active research groups and key industries, sharing the latest technological advancements related to ophthalmic procedures. The areas to be covered within this workshop are:",
     "Why": [
       "Robotic Microsurgery",
-      "Image-guided microsurgical procedures",
-      "Micromanipulation",
-      "Intra-operative Visualization",
-      "Task autonomy in ophthalmology",
-      "Surgical sonification"
+      "Intra-Operative Visualization",
+      "Image-Guided Surgery",
+      "Task Automation in Microsurgery"
     ],
     "News": [
       {
@@ -177,51 +174,66 @@
   ],
   "Speakers": [
     {
-      "img": "img/speakers/ullrich.jpeg",
+      "img": "img/speakers/taylor.jpeg",
       "text": "Talk description to be announced later.",
-      "affiliation": "University of Erlangen-Nuremberg ",
-      "name": "Franziska Mathis-Ullrich",
-      "class": "speakers-image",
-      "link": "https://www.aibe.tf.fau.de/person/franziska-mathis-ullrich/"
-    },
-    {
-      "img": "img/speakers/riviere.jpeg",
-      "text": "Talk description to be announced later.",
-      "affiliation": "Carnegie Mellon University",
-      "name": "Cameron N. Riviere",
-      "class": "speakers-image",
-      "link": "https://www.cmu.edu/bme/People/Faculty/profile/criviere.html"
+      "affiliation": "Johns Hopkins University",
+      "name": "Russell H. Taylor",
+      "link": "https://www.cs.jhu.edu/~rht/"
     },
     {
       "img": "img/speakers/iordachita.jpeg",
       "text": "Sensor Based Technology for Safe Robot-assisted Retinal Surgery",
       "affiliation": "Johns Hopkins University",
       "name": "Iulian Iordachita",
-      "class": "speakers-image",
       "link": "https://amiro.lcsr.jhu.edu/iulianiordachita/"
+    },
+    {
+      "img": "img/speakers/riviere.jpeg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "Carnegie Mellon University",
+      "name": "Cameron N. Riviere",
+      "link": "https://www.cmu.edu/bme/People/Faculty/profile/criviere.html"
+    },
+    {
+      "img": "img/speakers/abbott.jpeg",
+      "text": "Head-mounting Eye-surgery Robots for Passive Compensation of Patient Motion",
+      "affiliation": "University of Utah",
+      "name": "Jake J. Abbott",
+      "link": "https://www.mech.utah.edu/directory/faculty/jake-abbott/"
+    },
+    {
+      "img": "img/speakers/huang.jpeg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "Sun Yat-sen University",
+      "name": "Kai Huang",
+      "link": "https://scholar.google.com/citations?user=70_wl8kAAAAJ&hl=en"
     },
     {
       "img": "img/speakers/bergles.jpeg",
       "text": "Journeying to the first-in-human evaluation of VIPER",
       "affiliation": "King's College London",
       "name": "Christos Bergeles",
-      "class": "speakers-image",
       "link": "https://www.kcl.ac.uk/people/christos-bergeles-1"
+    },
+    {
+      "img": "img/speakers/mitsuishi.jpeg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "The University of Tokyo",
+      "name": "Mamoru Mitsuishi",
+      "link": "https://www.u-tokyo.ac.jp/focus/en/people/people003397.html"
     },
     {
       "img": "img/speakers/navab.jpeg",
       "text": "Talk description to be announced later.",
       "affiliation": "Technical University of Munich",
       "name": "Nassir Navab",
-      "class": "speakers-image",
       "link": "https://www.in.tum.de/campar/members/cv-nassir-navab/nassir-navab/"
     },
     {
-      "img": "img/team/nasseri.jpeg",
+      "img": "img/speakers/nasseri.jpeg",
       "text": "Science of translation in robot assisted ophthalmic surgery",
       "affiliation": "Technical University of Munich",
       "name": "M. Ali Nasseri",
-      "class": "speakers-image",
       "link": "https://www.translatum.tum.de/en/translatum/research-groups/biological-imaging/cognitive-cell-micromanipulation-laboratory-ccml/"
     },
     {
@@ -229,49 +241,36 @@
       "text": "Artificial intelligence Optical Coherence Tomography Guided Deep Anterior Lamellar Keratoplasty",
       "affiliation": "Johns Hopkins University",
       "name": "Jin U. Kang",
-      "class": "speakers-image",
       "link": "https://engineering.jhu.edu/faculty/jin-u-kang/"
+    },
+    {
+      "img": "img/speakers/simaan.jpeg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "Vanderbilt University",
+      "name": "Nabil Simaan",
+      "link": "https://engineering.vanderbilt.edu/bio/nabil-simaan"
+    },
+    {
+      "img": "img/speakers/izatt.jpeg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "Duke University",
+      "name": "Joseph A. Izatt",
+      "link": "https://bme.duke.edu/faculty/joseph-izatt"
     },
     {
       "img": "img/speakers/poorten.jpeg",
       "text": "Applications of realtime OCT for vitreoretinal surgery",
       "affiliation": "KU Leuven",
-      "class": "speakers-image",
       "name": "Emmanuel Vander Poorten",
       "link": "https://www.kuleuven.be/wieiswie/en/person/00035122"
-    },
-    {
-      "img": "img/clinicans/faridpooya.jpeg",
-      "text": "Talk description to be announced later.",
-      "affiliation": "Rotterdam Eye Hospital",
-      "class": "speakers-image",
-      "name": "Dr. Koorosh Faridpooya",
-      "link": "https://www.oogziekenhuis.nl/onze-specialisten/drs-k-koorosh-faridpooya"
-    },
-    {
-      "img": "img/sponsors/Syntheseyes.png",
-      "text": "Talk description to be announced later.",
-      "affiliation": "Industry",
-      "class": "speakers-image-ind",
-      "name": "SynthesEyes",
-      "link": "https://www.syntheseyes.de/"
-    },
-    {
-      "img": "img/sponsors/Acusurgical.svg",
-      "text": "Talk description to be announced later.",
-      "affiliation": "Industry",
-      "class": "speakers-image-ind",
-      "name": "Acusurgical",
-      "link": "https://acusurgical.com/"
-    },
-    {
-      "img": "img/sponsors/ocu.png",
-      "text": "Talk description to be announced later.",
-      "affiliation": "Industry",
-      "class": "speakers-image-ind",
-      "name": "Oculotronics",
-      "link": ""
     }
+    // {
+    //   "img": "img/speakers/sznitman.jpeg",
+    //   "text": "Talk description to be announced later.",
+    //   "affiliation": "University of Bern",
+    //   "name": "Raphael Sznitman",
+    //   "link": "https://www.artorg.unibe.ch/research/aimi/group_members/persons/prof_dr_sznitman_raphael/index_eng.html"
+    // }
   ],
   "Clinicans": [
     {

@@ -1,3 +1,6 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+
 export const Students = (props) => {
   return (
     <div id='students' className='text-center'>
