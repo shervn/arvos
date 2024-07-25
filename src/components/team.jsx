@@ -8,10 +8,10 @@ export const Team = (props) => {
         <div className='section-title'>
           <h2>Organizers</h2>
         </div>
-        <div id='row' className="row justify-content-center">
+        <div id='row' className="row justify-content-center container-fluid">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-3 team-header'>
+                <div key={`${d.name}-${i}`} className='col-md-2 team-header'>
                     <img src={d.img} alt='...' className='team-img' />
                     <div className='caption'>
                       <h4 className="invitename">{d.name}</h4>
