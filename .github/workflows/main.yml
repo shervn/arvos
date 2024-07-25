@@ -9,11 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Set VARS
         run: export NODE_OPTIONS=--openssl-legacy-provider
+        
+      - name: Install dependencies
+        run: npm install
 
       - name: Build
         run: npm run build
