@@ -18,8 +18,6 @@ export const Sponsors = (props) => {
             : 'loading'}
           <div className='col-md-1 col-sm-1'/>
         </div>
-    <hr class="bg-danger border-2 border-top border-danger" />
-
       </div>
       
     </div>
