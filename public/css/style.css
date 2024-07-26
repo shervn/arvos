@@ -706,7 +706,7 @@ label {
 }
 /* Footer Section*/
 #footer {
-  background: #f6f6f6;
+  background: #000000;
   padding: 30px 0;
 }
 #footer p {
@@ -745,4 +745,12 @@ label {
   #about img {
     margin: 50px 0;
   }
+}
+hr {
+  margin: 1rem 0;
+  width: 100%;
+  color: inherit;
+  background-color: currentColor;
+  border: 0;
+  opacity: 0.25;
 }

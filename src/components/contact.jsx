@@ -4,6 +4,7 @@ export const Contact = () => {
   return (
     <div id='footer'>
     <div className='container text-center'>
+    <hr class="bg-danger border-2 border-top border-danger" />
       <p>
         For more details please contact ali.nasseri[at]tum.de
       </p>
