@@ -27,44 +27,29 @@
   "Sponsors":[
     {
       "img": "img/sponsors/tum.png",
-      "link": "https://tum.de"
+      "link": "https://tum.de",
+      "className": "sponsor-img"
     },
     {
-      "img": "img/sponsors/maps.jpeg",
-      "link": "http://vmknoll22.informatik.tu-muenchen.de/"
+      "img": "img/sponsors/maps.png",
+      "link": "http://vmknoll22.informatik.tu-muenchen.de/",
+      "className": "sponsor-img-large"
     },
     {
       "img": "img/sponsors/camp.jpeg",
       "id": "camplogo",
-      "link": "https://www.cs.cit.tum.de/camp/start/"
+      "link": "https://www.cs.cit.tum.de/camp/start/",
+      "className": "sponsor-img"
     },
     {
-      "img": "img/sponsors/mri.jpeg",
-      "link": "https://tum.de"
+      "img": "img/sponsors/mri.png",
+      "link": "https://tum.de",
+      "className": "sponsor-img"
     },
     {
-      "img": "img/sponsors/jhu.jpeg",
-      "link": "https://engineering.jhu.edu/"
-    },
-    {
-      "img": "img/sponsors/nsk.jpg",
-      "link": "https://www.nsk.com/"
-    },
-    {
-      "img": "img/sponsors/Syntheseyes.png",
-      "link": "https://www.syntheseyes.com/"
-    },
-    {
-      "img": "img/sponsors/mirmi.jpeg",
-      "link": "https://www.mirmi.tum.de/mirmi/home/"
-    },
-    {
-      "img": "img/sponsors/ieee.webp",
-      "link": "https://www.ieee.org/"
-    },
-    {
-      "img": "img/sponsors/ieeer.webp",
-      "link": "https://www.ieee.org/"
+      "img": "img/sponsors/jhu.png",
+      "link": "https://engineering.jhu.edu/",
+      "className": "sponsor-img-large"
     }
   ],
   "Schedule1":[

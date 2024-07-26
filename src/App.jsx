@@ -5,13 +5,13 @@ import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { About } from "./components/about";
 // import { Posters } from "./components/posters";
-// import { Sponsors } from "./components/sponsors";
+import { Sponsors } from "./components/sponsors";
 import { Speakers } from "./components/speakers";
 import { Team } from "./components/team";
 // import { Students } from "./components/students";
 // import { Schedule } from "./components/schedule";
 import { Clinicans } from "./components/clinicans";
-import { Contact } from "./components/contact";
+// import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -37,9 +37,9 @@ const App = () => {
       <Clinicans data={landingPageData.Clinicans} />
       {/* <Schedule data={landingPageData} />
       <Posters data={landingPageData.About} />
-      <Students data={landingPageData.Students} />
-      <Sponsors data={landingPageData.Sponsors} /> */}
-      <Contact data={landingPageData.Contact} />
+      <Students data={landingPageData.Students} />*/}
+      <Sponsors data={landingPageData.Sponsors} />
+      {/* <Contact data={landingPageData.Contact} /> */}
     </div>
   );
 };
