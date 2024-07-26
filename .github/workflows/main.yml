@@ -12,12 +12,6 @@ jobs:
       - name: Install dependencies
         run: npm install
         
-      - name: Update 1
-        run: npm update
-
-      - name: Update 2
-        run: npm audit fix --force
-        
       - name: Build
         run: npm run build
 

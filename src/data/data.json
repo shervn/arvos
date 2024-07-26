@@ -343,7 +343,7 @@
       "img": "img/speakers/ullrich.jpeg",
       "name": "Prof. Dr. Franziska Mathis-Ullrich",
       "job": "Surgical Planning and Robotic Cognition (SPARC)",
-      "country": "Department Artificial Intelligence in Biomedical Engineering (AIBE)"
+      "country": "FAU Erlangen-Nuremberg"
     },
     {
       "img": "img/team/bergles.jpeg",
@@ -358,8 +358,8 @@
       "country": "Whiting School of Engineering, Johns Hopkins"
     },
     {
-      "img": "img/speakers/Kwok.jpeg",
-      "name": "Dr. Ka-Wai Kwok",
+      "img": "img/speakers/kwok.jpeg",
+      "name": "Prof. Ka-Wai Kwok",
       "job": "Group for Interventional Robotic and Imaging Systems (IRIS)",
       "country": "University of Hong Kong"
     },
@@ -371,30 +371,5 @@
     }
   ],
   "Students":[
-    {
-      "name": "Satoshi Inagaki",
-      "url": "https://google.com",
-      "image": "img/students/satoshi.jpeg"
-    },
-    {
-      "name": "Shervin Dehghani",
-      "url": "https://google.com",
-      "image": "img/students/shervin.jpeg"
-    },
-    {
-      "name": "Kristina Mach",
-      "url": "https://google.com",
-      "image": "img/students/kristina.jpeg"
-    },
-    {
-      "name": "Michael Sommersperger",
-      "url": "https://google.com",
-      "image": "img/students/michi.jpeg"
-    },
-    {
-      "name": "Alireza Alikhani",
-      "url": "https://google.com",
-      "image": "img/students/alireza.jpeg"
-    }
   ]
 }
