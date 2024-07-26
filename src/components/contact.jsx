@@ -1,11 +1,5 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 
-const initialState = {
-  name: '',
-  email: '',
-  message: '',
-}
 export const Contact = () => {
   return (
     <div id='footer'>
