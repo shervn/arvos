@@ -47,8 +47,13 @@
       "className": "sponsor-img"
     },
     {
-      "img": "img/sponsors/jhu.png",
-      "link": "https://engineering.jhu.edu/",
+      "img": "img/sponsors/dorc.png",
+      "link": "https://dorcglobal.com/",
+      "className": "sponsor-img-large"
+    },
+    {
+      "img": "img/sponsors/cambridge-consultants.png",
+      "link": "https://www.cambridgeconsultants.com/",
       "className": "sponsor-img-large"
     }
   ],

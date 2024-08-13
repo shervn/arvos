@@ -8,7 +8,6 @@ export const Sponsors = (props) => {
         <div id='row'>
     <hr class="bg-danger border-2 border-top border-danger" />
 
-          <div className='col-md-1 col-sm-1'/>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-2 col-sm-2'>
@@ -16,7 +15,6 @@ export const Sponsors = (props) => {
                 </div>
               ))
             : 'loading'}
-          <div className='col-md-1 col-sm-1'/>
         </div>
       </div>
       

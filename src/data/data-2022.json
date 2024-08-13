@@ -58,10 +58,6 @@
     {
       "img": "img/sponsors/ieee.webp",
       "link": "https://www.ieee.org/"
-    },
-    {
-      "img": "img/sponsors/ieeer.webp",
-      "link": "https://www.ieee.org/"
     }
   ],
   "Schedule1":[
@@ -264,13 +260,13 @@
       "name": "Emmanuel Vander Poorten",
       "link": "https://www.kuleuven.be/wieiswie/en/person/00035122"
     }
-    // {
-    //   "img": "img/speakers/sznitman.jpeg",
-    //   "text": "Talk description to be announced later.",
-    //   "affiliation": "University of Bern",
-    //   "name": "Raphael Sznitman",
-    //   "link": "https://www.artorg.unibe.ch/research/aimi/group_members/persons/prof_dr_sznitman_raphael/index_eng.html"
-    // }
+    {
+      "img": "img/speakers/sznitman.jpeg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "University of Bern",
+      "name": "Raphael Sznitman",
+      "link": "https://www.artorg.unibe.ch/research/aimi/group_members/persons/prof_dr_sznitman_raphael/index_eng.html"
+    }
   ],
   "Clinicans": [
     {

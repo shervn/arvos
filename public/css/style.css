@@ -375,7 +375,6 @@ header .intro-text {
   max-width: 50px;
   max-height: 80px;
   filter:brightness(0) invert(1);
-
 }
 
 #sponsors .sponsor-img-large {
@@ -385,32 +384,8 @@ header .intro-text {
   max-width: 100px;
   max-height: 80px;
   filter:brightness(0) invert(1);
-
 }
 
-
-#sponsors .service-desc {
-  margin: 10px 10px 20px;
-}
-
-#sponsors i.fa {
-  font-size: 42px;
-  width: 120px;
-  height: 120px;
-  padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  border-radius: 50%;
-  /* color: #fff; */
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
-}
-#sponsors h3 {
-  font-weight: 500;
-  padding: 5px 0;
-  /* color: #fff; */
-}
-#sponsors .service-desc {
-  margin-bottom: 40px;
-}
 
 .hover-bg .hover-text {
   position: absolute;
@@ -512,6 +487,10 @@ header .intro-text {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.center-row{
+  margin:auto;
 }
 
 .orga{
