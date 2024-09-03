@@ -282,6 +282,13 @@
       "affiliation": "Technical University of Munich",
       "name": "Prof. Dr. Nassir Navab",
       "link": "https://www.professoren.tum.de/en/navab-nassir"
+    },
+    {
+      "img": "img/team/desmet.jpg",
+      "text": "Talk description to be announced later.",
+      "affiliation": "MIOS sa/Helvetia Retina Associates, Lausanne, Switzerland",
+      "name": "Dr. Marc D. de Smet",
+      "link": "https://www.retina-uveitis.eu/"
     }
   ],
   "speakers": [
