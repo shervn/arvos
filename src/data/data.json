@@ -59,110 +59,91 @@
   ],
   "Schedule1":[
     {
-      "timeslot": "9:00 – 9:05",
-      "speaker": "M. Ali Nasseri / Welcome"
+      "timeslot": "08:30 – 09:00",
+      "speaker": "Preparation and Greetings",
+      "affiliation": "row"
     },
     {
-      "timeslot": "9:05– 9:20",
-      "speaker": "Mamoru Mitsuishi"
+      "timeslot": "09:00 – 09:15",
+      "speaker": "M. Ali Nasseri",
+      "affiliation": "Technical University of Munich / University of Alberta"
     },
     {
-      "timeslot": "9:20 – 9:35",
-      "speaker": "Russell H. Taylor / Iordachita"
+      "timeslot": "09:15 – 09:30",
+      "speaker": "Koorosh Faridpooya",
+      "affiliation": "Ophthalmologist, Het Oogziekenhuis Rotterdam"
     },
     {
-      "timeslot": "9:35 – 9:45",
-      "speaker": "Industry Spotlight #1"
+      "timeslot": "09:30 – 09:45",
+      "speaker": "Franziska Mathis-Ullrich",
+      "affiliation": "Friedrich-Alexander-University Erlangen-Nuremberg (FAU)"
     },
     {
-      "timeslot": "9:45 – 10:00",
-      "speaker": "Jake J. Abbott"
+      "timeslot": "09:45 – 10:00",
+      "speaker": "Iulian Iordachita",
+      "affiliation": "Johns Hopkins University"
     },
     {
       "timeslot": "10:00 – 10:15",
-      "speaker": "Kai Huang"
+      "speaker": "Kai Huang",
+      "affiliation": "Oculotronics LtD"
     },
     {
-      "timeslot": "10:15 – 10:45",
-      "speaker": "Coffee Break – Poster Presentation"
+      "timeslot": "10:15 – 10:30",
+      "speaker": "Cameron Riviere",
+      "affiliation": "Carnegie Mellon University"
     },
     {
-      "timeslot": "10:45 – 10:55",
-      "speaker": "Industry Spotlight #2"
-    },
-    {
-      "timeslot": "10:55 – 11:10",
-      "speaker": "Christos Bergeles"
-    },
-    {
-      "timeslot": "11:10 – 11:25",
-      "speaker": "Cameron N. Riviere"
-    },
-    {
-      "timeslot": "11:25 – 12:25",
-      "speaker": "Moderated Clinical Panell"
-    },
-    {
-      "timeslot": "",
-      "speaker": "Dr. Peter Louis Gehlbach; Dr. Mathias Maier; Dr. Koorosh Faridpooya; Dr. Haotian Lin;  Dr. Jasmina Kapetanovic; Dr. Jean-Pierre Hubschman"
-    },
-    {
-      "timeslot": "12:25 – 13:00",
-      "speaker": "Lunch Break – Poster Session"
+      "timeslot": "10:30 – 11:00",
+      "speaker": "Coffee Break",
+      "affiliation": "row"
     }
   ],
   "Schedule2":[
     {
-      "timeslot": "13:00 – 13:15",
-      "speaker": "Nassir Navab"
+      "timeslot": "11:00 – 11:10",
+      "speaker": "Dr. med. Marc D. de Smet",
+      "affiliation": "MIcroInvasive Ocular Surgery Clinic"
     },
     {
-      "timeslot": "13:15 – 13:30",
-      "speaker": "M. Ali Nasseri"
+      "timeslot": "11:10 – 11:20",
+      "speaker": "Shervin Dehghani",
+      "affiliation": "syntheseyes GmbH"
     },
     {
-      "timeslot": "13:30 – 13:45",
-      "speaker": "Jin U. Kang"
+      "timeslot": "11:20 – 11:35",
+      "speaker": "Christos Bergeles",
+      "affiliation": "Kings College London"
     },
     {
-      "timeslot": "13:45 – 13:55",
-      "speaker": "Industry Spotlight #3"
+      "timeslot": "11:35 – 11:50",
+      "speaker": "Emmanuel Vander Poorten",
+      "affiliation": "KU Leuven"
     },
     {
-      "timeslot": "13:55 – 14:10",
-      "speaker": "Nabil Simaan"
+      "timeslot": "11:50 – 12:00",
+      "speaker": "Chris Spuhler",
+      "affiliation": "AcuSurgical"
     },
     {
-      "timeslot": "14:10 – 14:25",
-      "speaker": "Joseph A. Izatt"
+      "timeslot": "12:00 – 12:15",
+      "speaker": "Rob Meijer",
+      "affiliation": "Cambridge Consultants"
     },
     {
-      "timeslot": "14:25 – 14:50",
-      "speaker": "Coffee Break – Poster Presentation"
+      "timeslot": "12:15 – 12:30",
+      "speaker": "Jin Kang",
+      "affiliation": "Johns Hopkins University"
     },
     {
-      "timeslot": "14:50 – 15:00",
-      "speaker": "Industry Spotlight #4"
+      "timeslot": "12:30 – 13:00",
+      "speaker": "Panel Discussion",
+      "affiliation": "row"
     },
     {
-      "timeslot": "15:00 – 15:15",
-      "speaker": "Emmanuel Vander Poorten"
-    },
-    {
-      "timeslot": "15:15 – 15:30",
-      "speaker": "Raphael Sznitman"
-    },
-    {
-      "timeslot": "15:30 – 16:30",
-      "speaker": "Moderated Clinical Panel"
-    },
-    {
-      "timeslot": "",
-      "speaker": "Dr. Peter Louis Gehlbach; Dr. Mathias Maier; Dr. Koorosh Faridpooya; Dr. Haotian Lin;  Dr. Jasmina Kapetanovic; Dr. Jean-Pierre Hubschman"
-    },
-    {
-      "timeslot": "16:30 – 17:00",
-      "speaker": "Wrap-up and conclusion"
+      "timeslot": "13:00 – 14:00",
+      "speaker": "Lunch",
+      "affiliation": "row"
     }
   ],
   "Speakers": [

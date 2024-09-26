@@ -12,28 +12,48 @@ export const Schedule = (props) => {
   
   <thead table-dark>
     <tr>
-    <th colspan="2" class="text-center">Morning Sesession</th>
+    <th colspan="3" class="text-center">Morning Sesession I</th>
      </tr>
    </thead>
    <tbody>
    {props.data.Schedule1 ? props.data.Schedule1.map((d, i) => (
-      <tr>
-      <th class="col-md-2" scope="row">{d.timeslot}</th>
+    <tr>
+  {d.affiliation !== "row" ? (
+    <>
+      <th className="col-md-2" scope="row">{d.timeslot}</th>
       <td>{d.speaker}</td>
-    </tr>
+      <td>{d.affiliation}</td>
+    </>
+  ) : (
+    <>
+      <th scope="row">{d.timeslot}</th>
+      <th colspan="2" ><strong>{d.speaker}</strong></th>
+    </>
+  )}
+</tr>
       ))
     : "loading"}
    </tbody>
    <thead >
     <tr>
-       <th colspan="2" class="text-center">Afternoon Sesession</th>
+       <th colspan="3" class="text-center">Morning Sesession II</th>
      </tr>
    </thead>
    <tbody>
    {props.data.Schedule2 ? props.data.Schedule2.map((d, i) => (
       <tr>
-      <th class="col-md-2" scope="row">{d.timeslot}</th>
-      <td >{d.speaker}</td>
+      {d.affiliation !== "row" ? (
+        <>
+          <th className="col-md-2" scope="row">{d.timeslot}</th>
+          <td>{d.speaker}</td>
+          <td>{d.affiliation}</td>
+        </>
+      ) : (
+        <>
+          <th scope="row">{d.timeslot}</th>
+          <th colspan="2" ><strong>{d.speaker}</strong></th>
+        </>
+      )}
     </tr>
       ))
     : "loading"}
@@ -45,3 +65,4 @@ export const Schedule = (props) => {
     </div>
   );
 };
+
